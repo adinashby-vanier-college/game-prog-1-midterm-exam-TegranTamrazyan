@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Winner
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Winner()
+comment1.text=\r\n\ //\ This\ is\ for\ the\ message\ that\ will\ appear\ when\ we\ win\ the\ game\ and\ this\ is\ the\ place\ where\ we\ control\ the\ position\ of\ the\ words.\r\n
+comment2.params=message\ x\ y
+comment2.target=void\ showTextWithBigWhiteFont(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ //Describes\ the\ message\ size,\ font,\ color.\r\n
+numComments=3
